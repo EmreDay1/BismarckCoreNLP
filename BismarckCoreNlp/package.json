@@ -1,0 +1,15 @@
+{
+    "name": "bismarck-core-nlp",
+    "version": "1.0.0",
+    "description": "German Natural Language Processing Library",
+    "scripts": {
+      "start": "ts-node src/examples/ca.ts",
+      "analyze": "ts-node src/examples/ca.ts",
+      "dev": "ts-node-dev --respawn src/examples/ca.ts"
+    },
+    "devDependencies": {
+      "@types/node": "^18.15.0",
+      "ts-node": "^10.9.1",
+      "typescript": "^5.0.4"
+    }
+  }
