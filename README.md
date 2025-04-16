@@ -1,6 +1,6 @@
 # BismarckCoreNLP
 
-A TypeScript-based Natural Language Processing (NLP) toolkit specifically designed for German language analysis.
+A TypeScript-based Natural Language Processing (NLP) toolkit specifically designed for German language analysis. This analyzer was built by Emre Dayangaç- me.)- when he was when preparing for the B1 german language certificate. The API was named after great Deutsch statesman Otto von Bismarck.
 
 ## Features
 
